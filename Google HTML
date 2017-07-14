@@ -1,0 +1,33 @@
+<DOCTYPE!>
+<html>
+<head>
+Google
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <div id="navbar">
+    <ul>
+      <li class="navbar-buttons">Gmail</li>
+      <li class="navbar-buttons">Images</li>
+      <li><img id="menu" src="https://rboshae.github.io/projects/google-homepage/images/googledrawer.png"</img>
+      <li><button id="signin" class="btn btn-info">Sign In</button>
+  </div>
+    <img id="GOOGLE" src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"</img>
+    <div id="input">
+    <form>
+      <input id="searchbar" type="text" name="searchbar" size="82">
+    </form>
+    <div id="buttons">
+      <button class="search-buttons">Google Search</button>
+      <button class="search-buttons">I'm Feeling Lucky</button>
+    </div>
+    </div>
+
+      <ul id="bottom">
+        <li class="footer-buttons">Advertising</li>
+        <li class="footer-buttons">Business</li>
+        <li class="footer-buttons">About</li>
+      </ul>
+    </div>
+    </body>
+    </html>
